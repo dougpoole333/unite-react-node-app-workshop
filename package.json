@@ -25,7 +25,7 @@
     "graphql": "^0.13.2",
     "isomorphic-fetch": "^2.2.1",
     "koa": "^2.5.0",
-    "koa-session": "^5.8.1",
+    "koa-session": "^5.12.2",
     "koa-webpack": "^3.0.2",
     "npm": "^5.8.0",
     "react": "^16.3.2",
